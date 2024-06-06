@@ -49,11 +49,14 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
   </a> 
-  <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/PgAdmin_Logo.png" alt="pgAdmin" width="40" height="40" />
-  </a> 
   <a href="https://golang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40" />
+  </a> 
+  <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40" />
+  </a> 
+  <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="ci/cd" width="40" height="40" />
   </a>
 </p>
 
