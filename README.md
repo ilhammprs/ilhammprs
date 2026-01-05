@@ -1,72 +1,97 @@
+<h1 align="center">Hi 👋, I'm Ilham</h1>
+<h3 align="center">Backend Engineer</h3>
 
-<h1 align="center">Hi 👋, I'm ilham</h1>
-<h3 align="center">Backend developer.</h3>
-
-<br>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=ilhammprs&label=Profile%20views&color=0e75b6&style=flat"
-    alt="ilhammprs" /> 
-  </p>
-
-<br>
-
-<p><img align="right" src="https://github.com/ilhammprs/ilhammprs/blob/main/animation_500_kxa883sd.gif" alt="ilhammprs" /></p>
-
-
-- 🌱 I’m currently learning Web Development and other programming languages
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  </a> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-  </a> 
-  <a href="https://golang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40" />
-  </a> 
-  <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40" />
-  </a> 
-  <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="ci/cd" width="40" height="40" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ilhammprs&label=Profile%20views&color=0e75b6&style=flat" alt="ilhammprs" />
 </p>
 
+---
 
-<br>
+<img align="right" width="400" src="https://github.com/ilhammprs/ilhammprs/blob/main/animation_500_kxa883sd.gif" alt="devops animation"/>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ilhammprs&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="ilhammprs" 
-    bg_color=#808080/></p>
+### 👨‍💻 About Me
+- 🧑‍💻 Backend Engineer with hands-on **DevOps & SRE experience in staging**
+- 🖥️ Managing **Ubuntu Server** for application & service deployment
+- 🌐 Handling **networking & traffic control using MikroTik**
+- ⚙️ Focused on **system reliability, automation, and incident handling**
+- 🧠 Strong understanding of **infra + application lifecycle**
 
-<br>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilhammprs&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="ilhammprs" /></p>
+### 🧰 Infrastructure & Tech Stack
+#### 🖥 Server & OS
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40"/>
+</p>
 
-<br>
+#### 🌐 Networking
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/mikrotik.svg" width="40"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhammprs&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="ilhammprs" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+#### 🐳 Container & CI/CD
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40"/>
+</p>
 
-[ilhammprs](https://github.com/ilhammprs)
+#### 📊 Logging & Monitoring
+<p>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40"/>
+</p>
+
+---
+
+### 🔧 DevOps Responsibilities (Staging)
+- 🚀 Deploy backend services on **Ubuntu Server (staging)**
+- 🐳 Build & run applications using **Docker**
+- 🔄 Configure **CI/CD pipeline (GitLab CI)** for staging deployment
+- 🌐 Setup **MikroTik**:
+  - NAT & firewall rules
+  - Port forwarding
+  - Basic traffic management
+- 🔐 Environment variables & secrets management
+- 📊 Centralized logging with **ELK Stack**
+- 🧯 Troubleshoot service, network, and deployment issues
+
+---
+
+### 🧠 SRE Mindset (Applied)
+- 📈 Monitor service health & logs before production release
+- ⏱️ Reduce deployment errors in staging
+- 🔍 Root Cause Analysis (RCA) on failed deployments
+- 🔄 Ensure staging parity with production
+- 🛡️ Fail-safe configs before production rollout
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilhammprs&show_icons=true&bg_color=0d1117&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhammprs&layout=compact&bg_color=0d1117&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhammprs&theme=dark&background=0d1117" />
+</p>
+
+---
+
+### 🚀 What I Actually Do
+- Deploy & validate services in **staging before production**
+- Manage **server + network**, not just application code
+- Debug issues across **app ↔ container ↔ OS ↔ network**
+- Build confidence before production releases
+
+---
+
+### 🔗 Connect
+<p align="left">
+  <a href="https://github.com/ilhammprs" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
