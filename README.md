@@ -75,10 +75,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ilhammprs&layout=compact&bg_color=0d1117&text_color=ffffff" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/?user=ilhammprs&theme=dark&background=0d1117" />
-</p>
-
 ---
 
 ### 🚀 What I Actually Do
