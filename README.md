@@ -68,15 +68,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilhammprs&show_icons=true&bg_color=0d1117&text_color=ffffff" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ilhammprs&show_icons=true&bg_color=0d1117&text_color=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhammprs&layout=compact&bg_color=0d1117&text_color=ffffff" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ilhammprs&layout=compact&bg_color=0d1117&text_color=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhammprs&theme=dark&background=0d1117" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/?user=ilhammprs&theme=dark&background=0d1117" />
 </p>
 
 ---
